@@ -10,17 +10,14 @@ This project supports live AI responses with token streaming, isolated client se
 
 ## Chat Interface
 
-Add your screenshots here:
 
-```md
-![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/main/images/Screenshot%202026-05-25%20142709.png?raw=true)
-```
 
-```md
-)
-```
 
----
+![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/64b8e53abf6733e2f9dea4153ae28fa266749faa/images/Screenshot%202026-05-25%20142503.png)
+
+
+
+
 
 # 🚀 Features
 
