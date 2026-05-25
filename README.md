@@ -13,11 +13,11 @@ This project supports live AI responses with token streaming, isolated client se
 Add your screenshots here:
 
 ```md
-![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/8245aad8f1f84929a82ea01346ff69a1d69aee6e/images/Screenshot%202026-05-25%20142503.png))
+![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/main/images/Screenshot%202026-05-25%20142709.png?raw=true)
 ```
 
 ```md
-![Chat UI 2](./images/Screenshot%202026-05-25%20142709.png)
+)
 ```
 
 ---
