@@ -15,6 +15,8 @@ This project supports live AI responses with token streaming, isolated client se
 
 ![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/64b8e53abf6733e2f9dea4153ae28fa266749faa/images/Screenshot%202026-05-25%20142503.png)
 
+![image alt](https://github.com/GnanaDatta1/AI-CHATBOT-APPLICATION/blob/20bef07608d395523bd142e5efb5b64871884870/images/Screenshot%202026-05-25%20142709.png)
+
 
 
 
